@@ -1,0 +1,101 @@
+Case,Programme,Age,First Person in Family,Attendance ,Quizzes ,Exam ,Final Grade
+1,BSc,19,No,6,24,44,A
+2,Other,19,No,6,28,45,A+
+3,BCom,22,No,6,20,32,B
+4,BSc,18,No,6,18,25,C+
+5,BA,18,No,6,23,46,A+
+6,BSc,24,No,6,16,11,D
+7,BSPC,18,No,6,24,14,D
+8,BCom,18,Yes,6,22,35,B
+9,BCom,19,No,0,22,34,B-
+10,BForSc,18,Yes,6,24,39,A-
+11,BSc,18,No,6,22,35,B+
+12,BSLP Int,18,No,6,22,29,B
+13,BCom,19,No,0,19,38,B
+14,BSc,18,Yes,6,10,22,D
+15,BCom,18,No,6,25,42,A
+16,BCom,18,No,4,17,38,B-
+17,BSc,20,No,0,2,19,E
+18,BCom,18,No,6,26,42,A+
+19,BSc,23,No,5,14,20,C-
+20,BCom,18,No,6,28,43,A
+21,BSc,19,No,6,28,46,A+
+22,BSc,21,No,6,28,46,A+
+23,Other,19,No,5,14,41,B
+24,BForSc,19,No,6,22,38,B+
+25,BCom,19,Yes,4,12,4,E
+26,BSc,23,No,2,14,26,C
+27,BForSc,18,No,6,17,33,C+
+28,BCom,21,No,6,14,32,C+
+29,BSc,30,No,6,26,42,A
+30,BCom,18,No,6,25,45,A+
+31,Other,18,No,6,28,44,A+
+32,BCom,18,No,6,24,37,A-
+33,BEnvSci(Hons),21,No,0,25,38,B+
+34,BCom,19,Yes,2,19,25,C
+35,BCom,19,No,4,20,33,B
+36,BE(Hons) First Year,18,No,6,27,39,A
+37,BCom,18,Yes,6,23,39,A-
+38,BSPC,18,No,4,11,20,D
+39,BSc,19,No,6,28,49,A+
+40,BCom,18,No,6,24,37,A-
+41,BCom,19,No,6,25,32,B+
+42,BSLP Int,18,No,6,22,25,B-
+43,BA,20,No,4,9,26,D
+44,BCom,21,No,0,26,31,B-
+45,BCom,19,No,0,21,26,C
+46,BE(Hons) First Year,20,No,6,24,29,B-
+47,BSc,19,No,6,28,46,A+
+48,BForSc,18,Yes,5,10,19,D
+49,BCom,19,Yes,6,21,33,B
+50,BCom,19,No,6,18,41,A-
+51,BCom,20,No,0,22,23,C
+52,BCom,18,No,6,19,32,B
+53,BCom,18,Yes,5,19,13,D
+54,BEnvSci(Hons),18,No,6,28,48,A+
+55,BSc,18,No,6,24,43,A
+56,BCom,20,No,6,24,47,A
+57,BCom,18,No,6,24,38,A-
+58,BSc,18,No,6,26,42,A
+59,BCom,18,No,5,16,23,C
+60,BCom,19,No,6,21,26,B-
+61,BSc,19,No,2,15,23,C-
+62,BSc,19,No,6,28,47,A+
+63,BCom,22,Yes,2,10,8,E
+64,BForSc,18,No,6,27,39,A
+65,BCom,19,No,6,20,34,B
+66,BCom,19,No,6,19,31,B-
+67,Other,24,Yes,6,25,40,A-
+68,BCom,18,No,6,13,39,B
+69,BA,19,No,6,23,37,A-
+70,BCom,18,No,2,22,30,B-
+71,BSc,18,No,6,27,47,A+
+72,BCom,18,No,6,12,40,B
+73,BSc,19,No,6,27,42,A
+74,BSc,21,No,6,15,42,B+
+75,BSc,21,Yes,5,8,11,E
+76,LLB,18,No,6,24,40,A-
+77,BE(Hons) First Year,18,No,6,21,40,A-
+78,BSc,18,No,6,26,44,A
+79,BA,23,Yes,0,9,27,D
+80,BCom,19,No,6,21,34,B
+81,BSc,18,No,6,28,45,A+
+82,BCom,18,No,6,24,44,A
+83,BSc,18,No,6,28,44,A+
+84,BCom,19,Yes,6,25,33,B+
+85,LLB,19,No,2,23,44,A-
+86,BCom,18,Yes,4,24,37,A-
+87,BE(Hons) First Year,19,Yes,2,0,12,B-
+88,Other,19,No,6,19,43,A-
+89,BCom,20,No,4,10,17,D
+90,Other,18,No,6,27,43,A+
+91,BE(Hons) First Year,21,No,6,24,37,B+
+92,BSc,23,No,0,26,42,B+
+93,BE(Hons) First Year,19,No,6,26,45,A+
+94,BCom,18,No,6,25,34,B+
+95,BSLP Int,19,No,6,23,43,A
+96,BSc,18,No,6,28,45,A+
+97,BSc,18,No,6,28,46,A+
+98,BCom,19,No,6,23,40,A-
+99,BSc,18,No,6,25,41,A
+100,BForSc,18,No,6,26,40,A
